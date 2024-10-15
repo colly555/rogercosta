@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    justify-content: center;
     display: flex;
     width: 100%;
 }
@@ -17,10 +18,9 @@ text-transform: uppercase;
 justify-content: center;
 align-items: center;
 gap: 28px;
-
 }
 
-.nav-lista:hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: greenyellow;
     color: chocolate;
