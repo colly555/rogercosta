@@ -23,5 +23,5 @@ gap: 28px;
 .nav-item:hover {
     cursor: pointer;
     background-color: greenyellow;
-    color: chocolate;
+    color: rgb(19, 126, 10);
 }
